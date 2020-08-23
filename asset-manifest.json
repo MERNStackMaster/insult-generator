@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/insult-generator/static/css/main.5f361e03.chunk.css",
+    "main.js": "/insult-generator/static/js/main.1c275919.chunk.js",
+    "main.js.map": "/insult-generator/static/js/main.1c275919.chunk.js.map",
+    "runtime-main.js": "/insult-generator/static/js/runtime-main.29f793d3.js",
+    "runtime-main.js.map": "/insult-generator/static/js/runtime-main.29f793d3.js.map",
+    "static/js/2.e25d3333.chunk.js": "/insult-generator/static/js/2.e25d3333.chunk.js",
+    "static/js/2.e25d3333.chunk.js.map": "/insult-generator/static/js/2.e25d3333.chunk.js.map",
+    "index.html": "/insult-generator/index.html",
+    "precache-manifest.15e0204c25251159113640b91ee518f1.js": "/insult-generator/precache-manifest.15e0204c25251159113640b91ee518f1.js",
+    "service-worker.js": "/insult-generator/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/insult-generator/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e25d3333.chunk.js.LICENSE.txt": "/insult-generator/static/js/2.e25d3333.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29f793d3.js",
+    "static/js/2.e25d3333.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1c275919.chunk.js"
+  ]
+}
